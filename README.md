@@ -18,7 +18,7 @@ The dataset contains **1,000,000 student records and 42 variables** representing
 - Social and environmental factors
 - Psychological indicators (stress, anxiety, depression)
 
-The dataset used in this project is **synthetic**, meaning it was generated for analysis and learning purposes rather than collected from real individuals.
+The dataset used in this project is **synthetic**, meaning it was generated for analysis and learning purposes rather than collected from real individuals. Due to the file size being 320mb, i have provided a sample size of 10,000 records to fit githubs size limits.
 
 ---
 
